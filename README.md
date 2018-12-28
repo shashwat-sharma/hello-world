@@ -1,2 +1,3 @@
 # hello-world
-This just a test repository
+This is just a test repository
+Please ignore this file
